@@ -10,7 +10,7 @@ MIT
 @angular/platform-browser
 MIT
 
-@hyperviewhq/angular2gridster
+@raphyyy/angular2gridster
 
 rxjs
 Apache-2.0
