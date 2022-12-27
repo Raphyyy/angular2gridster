@@ -1,5 +1,5 @@
 {
-    "name": "@hyperviewhq/angular2gridster",
+    "name": "@raphyyy/angular2gridster",
     "peerDependencies": {
         "@angular/common": "^14.2.0",
         "@angular/core": "^14.2.0"

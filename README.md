@@ -26,7 +26,7 @@ Versions **1.x** and **0.x** work only with **Angular 4.x**, but the newest stat
 ## Installation
 
 ```shell
-npm install @hyperviewhq/angular2gridster
+npm install @Raphyyy/angular2gridster
 ```
 
 Once installed you need to import our module:
@@ -42,7 +42,7 @@ System.config({
     map: {
         // ...
         rxjs: 'node_modules/rxjs',
-        angular2gridster: 'node_modules/@hyperviewhq/angular2gridster',
+        angular2gridster: 'node_modules/@Raphyyy/angular2gridster',
     },
     packages: {
         // ...

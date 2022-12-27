@@ -1,5 +1,5 @@
 {
-    "name": "@hyperviewhq/angular2gridster",
+    "name": "@raphyyy/angular2gridster",
     "version": "14.0.6",
     "license": "MIT",
     "scripts": {
@@ -21,9 +21,8 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/HyperviewHQ/angular2gridster.git"
+        "url": "git+ssh://git@github.com/Raphyyy/angular2gridster.git"
     },
-    "author": "Rami Jebara <rami.jebara@hyperviewhq.com>",
     "keywords": [
         "gridster",
         "grid",
@@ -35,9 +34,9 @@
         "widgets"
     ],
     "bugs": {
-        "url": "https://github.com/HyperviewHQ/angular2gridster/issues"
+        "url": "https://github.com/Raphyyy/angular2gridster/issues"
     },
-    "homepage": "https://github.com/HyperviewHQ/angular2gridster#readme",
+    "homepage": "https://github.com/Raphyyy/angular2gridster#readme",
     "dependencies": {
         "@angular/animations": "^14.2.12",
         "@angular/common": "^14.2.12",
